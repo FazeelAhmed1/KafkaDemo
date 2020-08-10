@@ -1,0 +1,18 @@
+C:\Users\arsla\source\repos\Block.Bot\Block.Bot\Block.Bot.Kafka.Core\bin\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.deps.json
+C:\Users\arsla\source\repos\Block.Bot\Block.Bot\Block.Bot.Kafka.Core\bin\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.dll
+C:\Users\arsla\source\repos\Block.Bot\Block.Bot\Block.Bot.Kafka.Core\bin\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.pdb
+C:\Users\arsla\source\repos\Block.Bot\Block.Bot\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.csproj.CoreCompileInputs.cache
+C:\Users\arsla\source\repos\Block.Bot\Block.Bot\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.AssemblyInfoInputs.cache
+C:\Users\arsla\source\repos\Block.Bot\Block.Bot\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.AssemblyInfo.cs
+C:\Users\arsla\source\repos\Block.Bot\Block.Bot\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.dll
+C:\Users\arsla\source\repos\Block.Bot\Block.Bot\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.pdb
+C:\Users\arsla\source\repos\Block.Bot\Block.Bot\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.csprojAssemblyReference.cache
+D:\Test Vs\kafka Test\Kafka Demo\Block.Bot.Kafka.Core\bin\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.deps.json
+D:\Test Vs\kafka Test\Kafka Demo\Block.Bot.Kafka.Core\bin\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.dll
+D:\Test Vs\kafka Test\Kafka Demo\Block.Bot.Kafka.Core\bin\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.pdb
+D:\Test Vs\kafka Test\Kafka Demo\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.csprojAssemblyReference.cache
+D:\Test Vs\kafka Test\Kafka Demo\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.AssemblyInfoInputs.cache
+D:\Test Vs\kafka Test\Kafka Demo\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.AssemblyInfo.cs
+D:\Test Vs\kafka Test\Kafka Demo\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.csproj.CoreCompileInputs.cache
+D:\Test Vs\kafka Test\Kafka Demo\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.dll
+D:\Test Vs\kafka Test\Kafka Demo\Block.Bot.Kafka.Core\obj\Debug\netcoreapp3.1\Block.Bot.Kafka.Core.pdb
